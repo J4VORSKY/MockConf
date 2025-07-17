@@ -1,0 +1,55 @@
+Dobrý den všem .	Good afternoon .
+Doufám , že mě slyšíte , pokud ne , tak mi to nějak prosím rychle signalizujte .	I hope you can hear me okay . And if not , please tell me .
+Děkuji .	
+Pardon , už jsem se odmutovala , nevím , jak se to stalo , že mě to zamutovalo .	I 'm sorry , I got muted , but it 's okay now .
+Nevím , jestli zvládnu tedy zodpovědět všechny otázky , které Kateřina naznačila ve svém úvodu , ale uvidíme .	I 'm not sure if I 'm going to be able to answer all the questions you might have , but we 'll see .
+Proč jsem si tedy pro dnešní akci vybrala zdánlivě nesouvisející nebo okrajové téma ?	So why did I pick this topic for my today 's presentation that might not be completely according to the topic ?
+Myslím si , že s tím , jak je umělá inteligence stále víc součástí našich životů , tak je dobré si uvědomit , jaký je rozdíl mezi inteligentním uvažováním člověka a fungováním počítače , protože v tom je zásadní rozdíl .	But AI is a huge part of our lives , and it 's good to realize the difference between human intelligence and the functioning of a computer because it 's a crucial difference .
+A myslím si , že nám to v konečném součtu pomůže nejen lépe poznávat lidský mozek , což je trošku můj obor jako psycholožky . Ale i lépe a užitečnějším způsobem rozvíjet umělou inteligenci .	And it 's going to help us get to know the human brain better , which is my job as a psychologist , but also to develop , further develop AI .
+Když mluvíme o lidském mozku , tak je dobré začít na začátku všeho , tedy u narození .	If we are to talk about the human brain , it 's good to start at the beginning , which is the birth .
+Když se narodí zdravý novorozenec , tak je vybaven více než desítkou reflexů . To slovo reflex je důležité .	If a healthy newborn is born , it has a huge number of reflexes , and the word reflex is key .
+Je to připravená reakce na určitý biologický podnět . A ta reakce je velmi důležitá pro jeho přežití .	It 's an automatic reaction to anything that happens , and it 's crucial for the survival of the newborn .
+To znamená , že novorozenec otáčí hlavu směrem ke všemu , co se dotkne jeho tváře . Saje všechno , co se mu dostane do úst .	For example , turning their head to anything that touches their face or sucking on anything that gets in their mouth .
+Když se ponoří do vody , zadrží dech .	If you put a newborn into water , it will not breathe .
+A je schopen uchopit věci rukou tak silně , že téměř udrží svou vlastní váhu .	It can grab onto things very strongly .
+Takže se narodí s mnoha užitečnými reflexy , jak už jsem říkala .	So a newborn has many important reflexes .
+Má nějaké smysly a má nějaké mechanismy učení .	It has certain senses and mechanisms of learning .
+A to všechno se má v mozku už při narození .	And all that is in the brain the moment you are born .
+Což je docela dost užitečných věcí . No a teď vám řeknu , co člověk nemá v mozku když se narodí .	Now I 'll tell you what there is not in the human brain when you are born .
+Takže nemá tam informace , data , software , algoritmy , programy , modely , paměti , obrazy , procesory nebo symboly .	There 's no information , data , software , algorithms , programs , models , or memories .
+	There are no pictures or processors or symbols .
+To to jsou všechno nějaké strukturální prvky nebo nástroje nebo něco . Architektura , součásti architektury , které umožňují počítačům chovat se inteligentně .	All these things are some kinds of structural tools and part of the architecture that enables computers to act intelligently , but humans don 't have that .
+Ale člověk takové věci v mozku nemá a ani jednou za celý svůj život si takové věci v mozku nevyvíjí .	At no phase of your life , these things are developing in your brain .
+Takže . My si neukládáme slova . Neukládáme si ani pravidla , která nám říkají , jak s nimi manipulovat .	Therefore , we don 't put any words into memory or rules how to use them .
+Nevytváříme obrazy nějakých vizuálních podnětů . Neukládáme si je do žádné vyrovnávací paměti , krátkodobé paměti , ani žádné jiné . A následně neprovádíme vyhledávání informací , obrazů nebo slov tady z nějakých těch úložišť .	We don 't create any pictures and we don 't save them in any kind of memory and we don 't do any search of certain symbols from your memories .
+Toto všechno dělají počítače , ale živé organizmy to nedělají .	Computers do that but living organisms don 't .
+A možná se ptáte , proč vzhledem k té jasné biologické skutečnosti tolik vědců mluví o našem mozku , jako kdyby to byl počítač ?	You might ask , when there 's this biological thing , why do so many scientists talk about the brain as if it was a computer ?
+No , podíváme se na to , jak se o mozku mluvilo v předchozích historických obdobích .	Let 's see how the brain was discussed in the past .
+Například okolo roku 1500 byly vynalezeny stroje poháněné různými pružinami a převody . No a ty inspirovaly přední myslitele , například Reného Descarta , tvrzení , že mozky lidí jsou složité stroječky s mechanickými převody . v polovině 19. století přišel na řadu například německý fyzik Hermann von Helmholtz , který inspirován nedávným pokrokem v oblasti komunikace přirovnal mozek k telegrafu .	Around the year 500 , 1500 , different machines created that were inspired by René Descartes that machines are , brains are machines . Then there was the physicist Hermann von Helmholtz , and he compared the brain to a telegraph .
+Takže vidíte , že každá taková metafora vlastně odráží nejpokročilější myšlení , nejpokročilější objevy té doby .	So each of these metaphors shows us the most developed technology of the time .
+Je tedy logické , že po nástupu vypočetní techniky někdy zhruba v polovině 20. století se o mozku začalo říkat , že funguje jako počítač .	In the mid-20th century , people started saying that the brain works as a computer .
+A dnes prakticky neexistuje žádná forma diskurzu o inteligentním lidském chování , která by probíhala bez použití této metafory zpracování informací ve stylu počítače .	And there isn 't much discourse nowadays on intelligent human behavior , which wouldn 't use this metaphor .
+Ale je to opravdu jenom metafora .	But it really is but a metaphor .
+Je to příběh , který vyprávíme , abychom pochopili , jak funguje něco , čemu zatím tolik ve skutečnosti nerozumíme .	It 's a story we tell in order to understand something we don 't understand really that much yet .
+A stejně jako všechny ty jiné metafory v historii i tato bude jednou zavržena a bude nahrazena buď jinou metaforou , anebo už konečně skutečným poznáním .	And just like the theories before and metaphors before , this one will be also not proofed , not correct in the future .
+Zkusím vám to trošku ilustrovat na příkladu stokorunové bankovky . Když vám teď řeknu , abyste mi nakresleli stokorunovou bankovku , tak ta kresba asi nebude úplně přesná . Což je divné . Neměli byste mít přece obraz stokoronové bankovky uložený v paměti někde v mozku ? Nemůžete si ho prostě načíst a použít vytvoření té kresby ?	For example , if I show you or if I give you 100 crown in cash and like you 're supposed to draw 100 crowns it won 't be as concrete and complete as it should be , but you should know what it looks like , right ?
+No nemůžete . Protože ve vašem mozku prostě nikdy není obraz stokoronové bankovky a nikdy tam nebude .	But you cannot search the image of 100 crowns in cash .
+Možná teď budete protestovat .	You might not agree .
+Možná řeknete , no ale když si jí teď tady položím na stůl a hodně dlouho se na ní budu dívat a pak ji budu chtít namalovat , tak to udělám přesně .	We might say , if I look up this banknote and I look at it , I might draw it completely correctly .
+To ano , ale to stále neznamená , že budete mít v hlavě ten obraz někde uložený .	But that doesn 't mean that you get the information from your brain .
+Prostě se jenom lépe připravíte na to , abyste ji přesněji nakresli .	It just means that you see it and then you get prepared for doing it correctly .
+Stejně jako třeba klavírista před koncertem . A cvičí , stává se zručnějším v hraní té skladby , ale není to tak , že by vdechl nějak do sebe kopii not nebo něco takového .	Just like a piano player learns to play a song , but he doesn 't just get it from his brain .
+Takže obraz bankovky v mozku nemáme .	
+Co víme ? Zatím je to velmi omezené , ale víme , že náš mozek formují v podstatě zkušenosti a ty jsou trojího rázu .	So what we know so far is that our brain is formed by experience and there are three kinds of experience .
+Zaprvé pozorujeme , co se kolem nás děje . Zvuky , chování jiných lidí a tak dále .	First , we watch what goes on around us , the sounds , the images .
+Za druhé vnímáme párování nedůležitých podnětů , například houkání sanitky s důležitými podněty .	Then we know which kinds of information is and is not important .
+Což je potom samotný průjezd té sanitky , který nás třeba ohrožuje na životě , protože by nás mohla přejet .	
+A za třetí jsme trestání nebo odměňování za určité chování .	And we are also punished or rewarded for certain kinds of behavior .
+A brzy zjistíme , že v životě se staneme efektivnějšími , pokud se změníme způsobem , který reflektuje tyto zkušenosti .	And we find out very quickly that life is better for us if we stick to certain rules .
+Takže dodržujeme pokyny .	
+A chováme se způsobem , který je spíše odměňován než trestán .	We want the reward , not the punishment .
+A na nedůležité podněty typu houkání reagujeme stejně jako na důležité podněty typu průjezd rychlé sanitky , protože už jsme si to spojili a víme , že to pro nás bude výhodné .	For example , the hooting of a train , we react the same as if it 's an emergency .
+To je tedy úplný základ toho , jak funguje lidský mozek .	
+Já jsem se před několika lety na konferenci zeptala jednoho neurologa , který dostal Nobelovu cenu za identifikaci chemických změn v mořtích mořských plžů po té , co se něco naučí .	I talked to one chemisist chemisist who got a prize for analyzing the brains of sea slugs .
+Jak dlouho podle něj potrvá , než pochopíme , jak teda lidský mozek vlastně funguje , nebo něco , čemu dnes říkáme paměť . A řekl mi , že to bude trvat 100 let . To je smutně dlouhá doba . Ale myslím si , že ji můžeme zkrátit tím , že alespoň se pokusíme opustit tu nefunkční nebo zavádějící metaforu o tom , že mozek ukládá a zpracovává nějaké obrazy a pak je zase odněkud vytahuje . A ponecháme tuto metaforu počítačům , protože si myslím , že to přinese pozitiva .	And I asked him , how long will it last until we understand human brain and memory works and he said it will take about 100 years which is a long time but I believe we can make it shorter when we try to leave this metaphor that doesn 't work behind this metaphor that the brain processes information the same way a computer does .
+Jak v biologii a psychologii , třeba tak i dalšímu vývoji umělé inteligence .	And this might be good for the development of psychology as well as AI .
